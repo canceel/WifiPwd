@@ -15,3 +15,8 @@ cat /data/misc/wifi/*.conf
 ```
 
 #### app下载: [点击下载](https://raw.githubusercontent.com/canceel/WifiPwd/master/app.apk)
+
+
+![主界面](https://raw.githubusercontent.com/canceel/WifiPwd/master/images/1.jpg "在这里输入图片标题")
+
+![分享界面](https://raw.githubusercontent.com/canceel/WifiPwd/master/images/2.jpg "在这里输入图片标题")
