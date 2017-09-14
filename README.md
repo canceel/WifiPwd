@@ -18,7 +18,7 @@ cat /data/misc/wifi/*.conf
 
 
 ![主界面]
-<img src="https://raw.githubusercontent.com/canceel/WifiPwd/master/images/1.jpg " width=256 height=256 />
+<img src="https://raw.githubusercontent.com/canceel/WifiPwd/master/images/1.jpg" width=256 height=256 />
 
 ![分享界面]
-<img src="https://raw.githubusercontent.com/canceel/WifiPwd/master/images/2.jpg " width=256 height=256 />
+<img src="https://raw.githubusercontent.com/canceel/WifiPwd/master/images/2.jpg" width=256 height=256 />
