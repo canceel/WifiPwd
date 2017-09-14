@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1bb7ff</color>
+    <color name="colorPrimaryDark">#1bb7ff</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- 主题绿色 -->
+    <color name="co1">#51aa38</color>
+    <!-- 辅助绿色 -->
+    <color name="co2">#91c941</color>
+    <!-- 主文字 -->
+    <color name="co3">#595b57</color>
+    <!-- 次文字 -->
+    <color name="co4">#bcbcbc</color>
+    <!-- +弹框点击色 -->
+    <color name="co5">#393f42</color>
+    <!-- +弹框背景色 -->
+    <color name="co6">#434a4d</color>
+    <!-- +底色 -->
+    <color name="co7">#eeeff1</color>
+    <!-- 白色背景点击态色 -->
+    <color name="co8">#f8f8f8</color>
+    <!-- +分割线 -->
+    <color name="co9">#e6e6e6</color>
+    <!-- +纯白 -->
+    <color name="co10">#ffffff</color>
+    <!-- 橙 -->
+    <color name="co11">#f57658</color>
+    <!-- 黄 -->
+    <color name="co12">#f4bc45</color>
+    <!-- 青 -->
+    <color name="co13">#3cc7c9</color>
+    <!-- 淡蓝色 -->
+    <color name="co14">#71a3ed</color>
+    <!-- 蓝 -->
+    <color name="co15">#4688b5</color>
+    <!-- 紫 -->
+    <color name="co16">#a984d3</color>
+    <!-- 红 -->
+    <color name="co17">#f44f4f</color>
+    <color name="co18">#72b544</color>
+</resources>

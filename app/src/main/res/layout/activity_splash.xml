@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/co9">
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:drawablePadding="10dp"
+        android:drawableTop="@mipmap/icon_wifi"
+        android:gravity="center"
+        android:text="WIFI密码查看"
+        android:textColor="@color/co5"
+        android:textSize="18sp" />
+
+</RelativeLayout>
