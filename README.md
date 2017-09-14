@@ -18,6 +18,6 @@ cat /data/misc/wifi/*.conf
 
 
 
-<img src="https://raw.githubusercontent.com/canceel/WifiPwd/master/images/1.jpg" width=590 height=980/>
+<img src="https://raw.githubusercontent.com/canceel/WifiPwd/master/images/1.jpg" width=295 height=490/>
 
-<img src="https://raw.githubusercontent.com/canceel/WifiPwd/master/images/2.jpg" width=590 height=980/>
+<img src="https://raw.githubusercontent.com/canceel/WifiPwd/master/images/2.jpg" width=295 height=490/>
